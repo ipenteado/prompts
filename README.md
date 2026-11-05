@@ -102,9 +102,9 @@ The repository is continuously evolving. Content is organized into folders accor
 
 I'm always open to exchanging ideas, discussing AI applications, and connecting with people interested in technology and innovation.
 
-- **LinkedIn:** [https://www.linkedin.com/in/igorpenteado/ ]([url](https://www.linkedin.com/in/igorpenteado/)
-- **Instagram:** [https://www.instagram.com/igorpenteado/ ]([url](https://www.instagram.com/igorpenteado/))
-- **TikTok:** [https://www.tiktok.com/@igorpenteado]([url](https://www.tiktok.com/@igorpenteado))
+- **LinkedIn:** [Igor Penteado]([url](https://www.linkedin.com/in/igorpenteado/))
+- **Instagram:** [@IgorPenteado]([url](https://www.instagram.com/igorpenteado/))
+- **TikTok:** [@IgorPenteado]([url](https://www.tiktok.com/@igorpenteado))
 - **Email:** [igor_penteado@hotmail.com](mailto:igor_penteado@hotmail.com)
 
 ---
